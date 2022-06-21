@@ -1,4 +1,3 @@
 # quickhull-py
-Implementation of QuickHull algorithm in Python.
+Implementation of [QuickHull](https://en.wikipedia.org/wiki/Quickhull) algorithm in Python.
 
-## In memoriam Owen (1997-2021)
